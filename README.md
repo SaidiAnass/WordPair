@@ -1,6 +1,6 @@
-# wordpair_generator
+# Word Pair
 
-It's a simple word generator.
+Word Pair is a Simple word generator.
 
 ## Getting Started
 
